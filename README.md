@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1286080870960070730/1302438211817046017/zen_2fTH7hXges.png?ex=67281d9b&is=6726cc1b&hm=f00bd01d1bb576bce80412e0d27a8b003b61f7e68a16f8c6d38cb384bd4e6347&=&width=740&height=357" alt="Project Logo" />
+  <img src="https://github.com/user-attachments/assets/e1122a69-44c7-41b5-bfad-73db67833144" alt="Project Logo" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/0x0060/ActiBot/issues"><img src="https://img.shields.io/github/issues/0x0060/ActiBot.svg?style=flat-square" alt="Issues" /></a>
